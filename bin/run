@@ -1,0 +1,8 @@
+#!/Users/williamgoldstein/.virtualenvs/artsy/bin/python
+
+import os, sys
+
+sys.path.append(os.path.join(os.path.dirname( __file__ ), '..'))
+
+import lib
+from lib.abtests import abtest_1_artist_page
