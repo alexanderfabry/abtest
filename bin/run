@@ -1,4 +1,4 @@
-#!/Users/williamgoldstein/.virtualenvs/artsy/bin/python
+#!/usr/bin/python
 
 import os, sys
 
