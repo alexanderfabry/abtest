@@ -18,5 +18,6 @@ data = mp.request(
 )
 mp.test(data, control='control', variations=['variation1', 'variation2'])
 ```
+In `bin/run`: load the above file
 
 In the terminal: `bin/run`.
